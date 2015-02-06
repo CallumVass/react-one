@@ -5,7 +5,7 @@
 ```shell
 $ git clone -o upstream https://github.com/CallumVass/react-one.git MyApp
 $ cd MyApp
-$ npm install                   # Install Node.js components listed in ./package.json
+$ npm install                   # Install npm packages listed in ./package.json
 $ npm start                     # Will start the server, browse to http://localhost:8081
 ```
 
